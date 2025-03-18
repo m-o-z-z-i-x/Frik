@@ -1,7 +1,8 @@
 # FRIK - Ваш помощник на технических собеседованиях
 
+Founder telegram chat: @lexa205dev
+
 <div align="center">
-  <img src="assets/logo.png" alt="FRIK Logo" width="200"/>
   <p><em>Потому что процесс найма в 2025 году все еще сломан</em></p>
 </div>
 
